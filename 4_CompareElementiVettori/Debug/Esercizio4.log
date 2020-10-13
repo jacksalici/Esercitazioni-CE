@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\giamb\documents\calcolatorielettronici\esercizio4\main.c(10): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+c:\users\giamb\documents\calcolatorielettronici\esercizio4\main.c(11): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+  Esercizio4.vcxproj -> C:\Users\giamb\Documents\CalcolatoriElettronici\Esercizio4\Debug\Esercizio4.exe
