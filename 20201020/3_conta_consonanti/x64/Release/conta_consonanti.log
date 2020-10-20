@@ -1,0 +1,104 @@
+﻿  main.c
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(12): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(13): error C2065: 'mov': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(13): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(13): error C2065: 'eax': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(14): error C2146: syntax error: missing ';' before identifier 'mov'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(14): error C2065: 'mov': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(14): error C2146: syntax error: missing ';' before identifier 'esi'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(14): error C2065: 'esi': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(15): error C2146: syntax error: missing ';' before identifier 'mov'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(15): error C2065: 'mov': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(15): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(15): error C2065: 'ecx': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(17): error C2146: syntax error: missing ';' before identifier 'ciclo'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(18): error C2065: 'cmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(18): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(18): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(19): error C2146: syntax error: missing ';' before identifier 'jl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(19): error C2065: 'jl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(19): error C2146: syntax error: missing ';' before identifier 'impostor'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(20): error C2065: 'impostor': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(20): error C2146: syntax error: missing ';' before identifier 'cmp'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(20): error C2065: 'cmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(20): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(20): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(21): error C2146: syntax error: missing ';' before identifier 'jl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(21): error C2065: 'jl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(21): error C2146: syntax error: missing ';' before identifier 'impostor'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2065: 'impostor': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2146: syntax error: missing ';' before identifier 'mov'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2065: 'mov': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2065: 'byte': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2146: syntax error: missing ';' before identifier 'ptr'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2065: 'ptr': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2065: 'eax': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2065: 'esi': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(22): error C2109: subscript requires array or pointer type
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(23): error C2146: syntax error: missing ';' before identifier 'cmp'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(23): error C2065: 'cmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(23): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(23): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(24): error C2146: syntax error: missing ';' before identifier 'je'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(24): error C2065: 'je': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(24): error C2146: syntax error: missing ';' before identifier 'impostor'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(25): error C2065: 'impostor': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(25): error C2146: syntax error: missing ';' before identifier 'cmp'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(25): error C2065: 'cmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(25): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(25): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(26): error C2146: syntax error: missing ';' before identifier 'je'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(26): error C2065: 'je': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(26): error C2146: syntax error: missing ';' before identifier 'impostor'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(27): error C2065: 'impostor': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(27): error C2146: syntax error: missing ';' before identifier 'cmp'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(27): error C2065: 'cmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(27): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(27): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(28): error C2146: syntax error: missing ';' before identifier 'je'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(28): error C2065: 'je': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(28): error C2146: syntax error: missing ';' before identifier 'impostor'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(29): error C2065: 'impostor': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(29): error C2146: syntax error: missing ';' before identifier 'cmp'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(29): error C2065: 'cmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(29): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(29): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(30): error C2146: syntax error: missing ';' before identifier 'je'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(30): error C2065: 'je': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(30): error C2146: syntax error: missing ';' before identifier 'impostor'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(31): error C2065: 'impostor': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(31): error C2146: syntax error: missing ';' before identifier 'cmp'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(31): error C2065: 'cmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(31): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(31): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(32): error C2146: syntax error: missing ';' before identifier 'je'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(32): error C2065: 'je': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(32): error C2146: syntax error: missing ';' before identifier 'impostor'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(34): error C2065: 'impostor': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(34): error C2146: syntax error: missing ';' before identifier 'cmp'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(34): error C2065: 'cmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(34): error C2146: syntax error: missing ';' before identifier 'bl'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(34): error C2065: 'bl': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(35): error C2146: syntax error: missing ';' before identifier 'je'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(35): error C2065: 'je': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(35): error C2146: syntax error: missing ';' before identifier 'fine'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(36): error C2065: 'fine': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(36): error C2146: syntax error: missing ';' before identifier 'inc'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(36): error C2065: 'inc': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(36): error C2146: syntax error: missing ';' before identifier 'esi'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(37): error C2065: 'esi': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(37): error C2146: syntax error: missing ';' before identifier 'jmp'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(37): error C2065: 'jmp': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(37): error C2146: syntax error: missing ';' before identifier 'ciclo'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(38): error C2065: 'ciclo': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(38): error C2146: syntax error: missing ';' before identifier 'impostor'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(38): error C2065: 'inc': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(38): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(39): error C2065: 'ecx': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(39): error C2146: syntax error: missing ';' before identifier 'inc'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(39): error C2065: 'inc': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(39): error C2146: syntax error: missing ';' before identifier 'esi'
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(40): error C2065: 'esi': undeclared identifier
+c:\users\giamb\documents\calcolatorielettronici\20201020\conta_consonanti\main.c(40): fatal error C1003: error count exceeds 100; stopping compilation
