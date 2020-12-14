@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: la directory intermedia (Release\) contiene file condivisi da un altro progetto (es2.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  Assembling primi.asm...
+  main.c
+LINK : fatal error LNK1104: impossibile aprire il file 'D:\Users\Giacomo\Documents\__Università\Esercitazioni_CE\20201117\es2\Release\conta_primi_vett.exe'

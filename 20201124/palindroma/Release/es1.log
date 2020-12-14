@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: la directory intermedia (Release\) contiene file condivisi da un altro progetto (es1.vcxproj, palindrom0.vcxproj, palindroma.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  Assembling funz.asm...
+  main.c
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  es1.vcxproj -> D:\Users\Giacomo\Documents\__Università\Esercitazioni_CE\20201124\es1\Release\palindroma1.exe
